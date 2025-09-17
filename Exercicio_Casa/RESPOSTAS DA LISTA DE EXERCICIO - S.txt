@@ -1,0 +1,66 @@
+RESPOSTAS DA LISTA DE EXERCICIO - SAMUEL DE LIMA RIBEIRO
+
+Q01. C:\Users\samue> cd Documents
+
+C:\Users\samue\Documents>mkdir Disciplina_20252
+
+C:\Users\samue\Documents>mkdir Disciplina_20252\Logistica_Matematica
+
+C:\Users\samue\Documents>mkdir Disciplina_20252\Logistica_Matematica\Exercicios
+
+C:\Users\samue\Documents>mkdir Disciplina_20252\Logistica_Matematica\Leitura
+
+C:\Users\samue\Documents>mkdir Disciplina_20252\Logistica_Matematica\Material_Professor
+
+C:\Users\samue\Documents>mkdir Disciplina_20252\Projeto
+
+C:\Users\samue\Documents>mkdir Disciplina_20252\Projeto\Curto_Prazo
+
+C:\Users\samue\Documents>mkdir Disciplina_20252\Projeto\Longo_Prazo
+
+C:\Users\samue\Documents>
+
+
+Q02. O prompt de comando é o C:\Users\samue>cd Documents
+
+Q03. O comando para limpar a tela é cls 
+
+Q04. O comando para pedir ajuda no Shell é o help 
+
+Q05. O comando para exibir os parâmetros do "DIR" é o "help dir"
+
+Q06. O comando para entrar na pasta "Disciplina_20252" é o "cd Disciplina_20252"
+
+Q07. A tecla de atalho seria "fn + f7"
+
+Q08. O comando em questão seria o "dir"
+
+Q09.  O comando para revelar todas as pastas e arquivos a partir da pasta Disciplina_20252 seria "dir /s /b C:\Users\samue\Documents\Disciplina_20252"
+
+Q10. O comando para entrar na pasta Logica_Matematica é o C:\Users\samue\Documents\Disciplina_20252>cd Logistica_Matematica.
+
+Q11. O comando para sair da pasta "Logica_Matematica" e voltar para a pasta "Disciplina_20252" é o ..cd
+
+Q12. O comando para apagar a pasta Curto_Prazo é o rmdir /s /q Curto _Prazo.
+
+Q13. O comando para voltar para Documents é o cd C:\Users\samue\Documents. 
+
+Q.14 O comando para exibir toda estrutura da pasta Projeto é o "tree"
+
+Q15. o comando para deletar a pasta Projeto e todas as suas subpastas é o rmdir /s /q C:\Users\samue\Documents\Disciplina_20252\Projeto
+
+Q16. O comando para deletar a pasta Disciplina_202502 e suas subpastas é o rmdir /s /q C:\Users\samue\Documents\Disciplina_20252
+
+Q17. O comando para sair do shell do Windows é o "exit"
+
+Q18. A função do comando CD \ serve para mudar o diretório atual para o diretório raiz da unidade, fazendo com que o usuário seja levado para C:  \
+
+Q19. A função do comando "tree d: \ /f" mostra todas as pastas e arquivos como se fosse uma árvore hierárquica. 
+
+Q.20. Tem como função exibir a estrutura de diretórios em forma de árvore a partir da raiz \ da unidade atual C.
+
+
+
+
+
+

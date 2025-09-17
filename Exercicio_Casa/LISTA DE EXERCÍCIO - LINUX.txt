@@ -1,0 +1,88 @@
+LISTA DE EXERCÍCIO - LINUX
+
+SAMUEL DE LIMA RIBEIRO
+
+cd Documentos
+
+	mkdir programação
+	
+	cd programação 
+
+	mkdir banco_de _dados
+
+	cd banco_de_dados
+
+	mkdir mySQL/Oracle/PostgreSQL/SQLServer
+	
+	cd .. 
+
+	mkdir Linguagem
+
+	cd Linguagem
+
+	mkdir Java/JavaScript/PHP/React
+
+
+2. mkdir Arquivo1.txt Java
+
+	mkdir Arquivo2.docx.docx MySQL
+
+	mkdir Arquivo3.xlsx Oracle
+
+	mkdir Arquivo4.jpg PHP
+
+	mkdir Arquivo5.peg JavaScript
+
+	mkdir Arquivo6.bat Linguagem
+
+	mkdir Arquivo7.exe SQLServer
+
+	mkdir Arquivo8.php React
+
+
+3. copy Arquivo1.txt
+
+	mv Arquivo1.txt/PHP
+
+	copy Arquivo2.docx
+
+	mv Arquivo2.docx/PHP
+
+	copy Arquivo3.xlsx
+
+	mv Arquivo3.xlsx/PHP
+
+
+4. cd Java
+
+	mkdir Projeto1/Projeto2/Projeto3
+
+5. cp -r Linguagem/Programação
+
+
+6. mv Arquivo8.php Arquivo8.html
+
+7. tree Programação
+
+8. mv Arquivo7/MySQL
+
+9. tree Programação/estrutura.txt
+
+10. mkdir samuelribeiro.txt
+
+11. rm Projeto1 Cliente1
+	rm Projeto 2 Cliente2
+	rm Projeto 3 Cliente3
+
+12.  rm Linguagem
+
+13. tree Samuel RIbeiro.txt
+
+14. mkdir MySQL/help.txt
+
+	
+	
+
+	
+
+	

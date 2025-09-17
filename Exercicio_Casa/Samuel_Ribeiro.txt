@@ -1,0 +1,39 @@
+RESPOSTAS DA LISTA DE EXERCICIO - SAMUEL DE LIMA RIBEIRO
+
+1. C:\Users\samue> cd Documents
+
+C:\Users\samue\Documents>mkdir Disciplina_20252
+
+C:\Users\samue\Documents>mkdir Disciplina_20252\Logistica_Matematica
+
+C:\Users\samue\Documents>mkdir Disciplina_20252\Logistica_Matematica\Exercicios
+
+C:\Users\samue\Documents>mkdir Disciplina_20252\Logistica_Matematica\Leitura
+
+C:\Users\samue\Documents>mkdir Disciplina_20252\Logistica_Matematica\Material_Professor
+
+C:\Users\samue\Documents>mkdir Disciplina_20252\Projeto
+
+C:\Users\samue\Documents>mkdir Disciplina_20252\Projeto\Curto_Prazo
+
+C:\Users\samue\Documents>mkdir Disciplina_20252\Projeto\Longo_Prazo
+
+C:\Users\samue\Documents>
+
+
+2. O prompt de comando é o C:\Users\samue>cd Documents
+
+3. O comando para limpar a tela é cls 
+
+4. O comando para pedir ajuda no Shell é o help 
+
+5. O comando para exibir os parâmetros do "DIR" é o "help dir"
+
+6. O comando para entrar na pasta "Disciplina_20252" é o "cd Disciplina_20252"
+
+7. 
+
+
+
+
+

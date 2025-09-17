@@ -1,0 +1,60 @@
+LISTA DE EXERCICIO - TECNOLOGIA PARA FRONT-END
+
+1. O HTML é uma linguagem de programação, onde é usada para desenvolver páginas da web, onde ele procura estruturar o conteúdo da pagina Web, sendo capaz de organizar texto, imagens, vídeos, links formulários e outras ferramentas. 
+
+2. A linguagem de programação HTML foi desenvolvida em 1989 por Tim Berners-Lee e seus colaboradores no CERN (Conselho Europeu de Pesquisas Nucleares).
+
+3. O HTML estrutura o conteúdo do documento sendo programado, já o CSS é uma linguagem que permite que o programador aplique estilos seletivamente a elementos em documentos HTML
+
+4. A tag HTML serve para delimitar toda a pagina dentro de um código feito com a devida linguagem.
+
+5. A tag <head> serve para configurar outras coisas que não seja o conteúdo da página, como por exemplo o título, já a tag <body> serve para inserir os elementos visuais nas páginas.
+
+6. A tag  <title> serve para inserir um título na janela ou na aba da página.
+
+7. <html>
+ 	<head>
+ 	<title> This is your Title</title>
+ 	</head>
+
+ 	<body>
+ 		<p> random stuff.</p>
+ 		<p> 	random stuff pt 2.</p>
+ 	</body>
+</html>
+
+8. O atributo alt não é considerado obrigatório, mas será considerado como erro se não for colocado no código, porque ele provê o entendimento da imagem para pessoas com deficiências e também auxilia na indexação da imagem para motores de busca, como por exemplo o Google.
+
+9. <figure>
+ 	<img src="https://preview.redd.it/ferrari-wallpapers-monza-2024-v0-3l30zr47temd1.jpg?width=1080&crop=smart&auto=webp&s=05572a01d64f5800a04ad7c4837166015bf58f5c"
+ 		alt=" Wallpaper da Ferrari Monza 2024"
+ 		width= "600"
+</figure>
+
+10. A tag  irá deixar o texto do código em negrito, já a tag  vai mudar a fonte do texto para itálico.
+
+11. As listas ordenadas são listas onde cada item é organizado em ordem numérica, já as listas não ordenadas são listas que invés de serem organizadas por números, são organizadas por um marcador como um ponto.
+
+1. Pão 						 - arrumar o quarto
+2. Queijo					 - limpar o banheiro
+3. Presunto					 - varrer a sala
+
+12. A atribuição em questão seria "type" para poder alterar o tipo de numeração na lista, como por exemplo.
+
+"type="1" - lista com ordenação numérica
+"type="A" - Lista com ordenação alfabética Maiúscula.
+"type="a" - Lista com ordenação alfabética minúscula.
+
+13. <a href="https://www.ufpb.br">UFPB</a>
+
+14 A tag <form> serve para representar visivelmente a criação de um formulário e seus atributos mais importantes são autocomplete="on|off", action="string", method="get|post", novalidate.
+
+15. <input type "email" /> serve para criar uma aba para colocar o email do usuário.
+* *
+* 	< input type="number" />Serve para solicitar alguma informação relacionado a números como data de nascimento*
+* *
+* 	< input type="name" name= "nome" serve para criar o espaçamento para digitar a informação no formulário*
+* *
+* 	<input  type "radio" serve para se criar um botão em formato de bola para o usuário preencher contendo diversas opções.*
+* *
+* 	<input type"datetime-local" name "datatempo" /> serve patra selecionar o tempo, como ano, dia, horas e minutos*
